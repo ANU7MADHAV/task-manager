@@ -24,7 +24,7 @@ const ChartPage = () => {
         </section>
         <PieChart />
       </section>
-      <button onClick={() =>alert("hello")}>Hello</button>
+    
     </div>
   );
 };
